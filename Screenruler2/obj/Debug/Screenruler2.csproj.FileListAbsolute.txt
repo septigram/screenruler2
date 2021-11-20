@@ -1,0 +1,16 @@
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\bin\Debug\Screenruler2.exe
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\bin\Debug\Screenruler2.pdb
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.Form1.resources
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.Properties.Resources.resources
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.csproj.GenerateResource.Cache
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.exe
+C:\Users\kurose\Documents\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.pdb
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\bin\Debug\Screenruler2.exe
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\bin\Debug\Screenruler2.pdb
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.Form1.resources
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.Properties.Resources.resources
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.csproj.GenerateResource.cache
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.csproj.CoreCompileInputs.cache
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.exe
+C:\Users\septi\Documents\work\Visual Studio 2008\Projects\Screenruler2\Screenruler2\obj\Debug\Screenruler2.pdb
